@@ -1,8 +1,8 @@
 
 let start = 10;
-let end = 21;
+let end = 20;
 
-  for (let i = start; i < end; i++) {
+  for (let i = start; i <= end; i++) {
     console.log(i**2)
   }
 
